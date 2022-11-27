@@ -1,4 +1,5 @@
 # Política de Privacidad
+> Ultima actualización: 26 de Noviembre del 2022
 
 Respetamos tu privacidad, la privacidad lo tomamos como algo importante en el momento de usar a **Kakashi**, NUNCA compartiremos tus datos a servicios terceros.
 
@@ -24,6 +25,4 @@ El prefijo es algo principal del bot para su correcto funcionamiento en el bot
 
 ## ¿Cómo puedo solicitar para que mis datos sean removidos?
 
-En este caso, el usuario, si desea una eliminación de cuenta de nuestros datos guardados se pide directamente en nuestro [servidor de soporte](https://discord.com/invite/kvnGMFg) hacia los desarrolladores.
-
-
+En este caso, el usuario, si desea una eliminación de cuenta de nuestros datos guardados se pide directamente en nuestro [servidor de soporte](https://discord.com/invite/kvnGMFg) hacia los desarrolladores.    
