@@ -11,7 +11,7 @@ En todo caso, si habilitas nuestro módulo de rpg de **Naruto** guardaremos lo s
 Recolectamos los siguientes datos en nuestra base de datos:
 
 * ID del usuario
-* Fecha de registró en nuestro módulo
+* Fecha de registro en nuestro módulo
 
 En caso de utilizar la configuración del servidor vinculada con el bot:
 * ID del servidor
