@@ -6,7 +6,7 @@ Respetamos tu privacidad, la privacidad lo tomamos como algo importante en el mo
 
 ## ¿Qué datos recolectamos?
 
-El bot no guarda ningún dato personal que se identifique, solemos guardar el contenido del mensaje cada vez que ejecutes nuestros servicios para su correcto funcionamiento.
+El bot no guarda ningún dato personal que se identifique, solemos identificar el mensaje para coincidir con el prefijo y tener nuestros servicios para su correcto funcionamiento.
 En todo caso, si habilitas nuestro módulo de rpg de **Naruto** guardaremos lo siguiente:
 
 Recolectamos los siguientes datos en nuestra base de datos:
